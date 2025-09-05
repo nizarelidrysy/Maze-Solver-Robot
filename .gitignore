@@ -1,0 +1,13 @@
+*.ino.bin
+*.ino.hex
+*.elf
+*.lss
+*.map
+*.sketch.bin
+*.sketch.hex
+
+build/
+.arduino/
+
+.pio
+.vscode
